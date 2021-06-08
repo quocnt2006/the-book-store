@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/TheBookStore">
+    <Resource name="QuocNT" type="javax.sql.DataSource" auth="Container"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://localhost:1433;databaseName=TheStoreBook;instanceName=DESKTOP-P5OF53H\\SQLEXPRESS"
+        username="sa" password="sa123456"
+    />
+</Context>
